@@ -1,8 +1,8 @@
 import logo from "./assets/Logo .png"
 
-const Footer = () => {
+const Footer = ({page}) => {
     return (
-        <div className="footer">
+        <div className="footer" style={page === 'Reservation'? {backgroundColor: '#fff'} : {backgroundColor: '#D9D9D9'}}>
             <img src={logo}/>
             <div>
                 <h5>Doormat Navigation</h5>

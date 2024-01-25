@@ -10,7 +10,7 @@ const Hero = () => {
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
                     <br/> <br/>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis eius, ipsam nihil quidem assumenda officia saepe atque at ratione labore!    
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis eius, ipsam nihil quidem assumenda officia saepe atque at ratione labore!
                 </p>
                 <div className="btnReserve">
                     <button>Reserve a table</button>

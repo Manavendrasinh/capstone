@@ -5,16 +5,18 @@ import Footer from './Footer';
 import Highlights from './Highlights';
 import Testimonials from './Testimonials';
 import About from './About'
+import ReservationPage from './ReservationPage';
 
 function App() {
   return (
     <>
-      <Header/>
+      {/* <Header/>
       <Hero/>
       <Highlights/>
       <Testimonials/>
       <About/>
-      <Footer/>
+      <Footer page={'Home'}/> */}
+      <ReservationPage/>
     </>
   );
 }
