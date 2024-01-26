@@ -7,7 +7,6 @@ import ReservationForm from './ReservationForm';
 const ReservationPage = () => {
     return (
         <>
-            <Header/>
             <ReservationHero/>
             <ReservationImages/>
             <ReservationForm/>
